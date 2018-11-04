@@ -56,6 +56,18 @@ a {
     height:500px;
     width:500px;
 }
+.thumbnail{
+    display:flex;
+    justify-content:space-around;
+}
+.t-i{
+    height:300px;
+    width:350px;
+}
+#mg{
+    color:white;
+    font-size:50px;
+}
 #word{
     display:flex;
     justify-content:center;
