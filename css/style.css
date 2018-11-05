@@ -75,3 +75,55 @@ a {
     color:white;
     font-family: 'Baloo Bhaijaan', cursive;
 }
+#about1{
+    color:white;
+}
+.boo{
+    display:flex;
+    justify-content:space-around;
+}
+.facts{
+    color:white;
+    font-size:25px;
+}
+#young{
+    display:flex;
+    justify-content:center;
+}
+.early{
+    height:250px;
+    width:400px;
+}
+#school{
+    display:flex;
+    justify-content:center;
+}
+.edu{
+    height:250px;
+    width:400px;
+}
+#fp{
+    display:flex;
+    justify-content:center;
+}
+.nice{
+    height:250px;
+    width:400px;
+}
+#lists{
+    color:white;
+    font-size:25px;
+}
+.info{
+    color:white;
+    font-size:25px;
+}
+#social2{
+    display:flex;
+    justify-content:center;
+}
+.social-image2{
+    height:50px;
+    width: 50px;
+    margin: 40px;
+}
